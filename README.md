@@ -16,6 +16,7 @@ This project demonstrates the fundamentals of GUI development in Python and is i
 - 🖥️ Responsive button clicks
 - ❌ Clear and reset functionality
 - ⚡ Lightweight and fast
+- ❗Maximization Disabled
 
 ---
 
